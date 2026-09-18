@@ -1,5 +1,9 @@
 # 🏎️ PDM Loader & Interior Fix (FiveM Enhanced)
 
+![FiveM Ready](https://img.shields.io/badge/FiveM-Enhanced_Ready-orange?style=for-the-badge&logo=fivem)
+![Lua](https://img.shields.io/badge/Language-Lua-blue?style=for-the-badge&logo=lua)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 Hey everyone! 👋 
 
 Since upgrading to **FiveM Enhanced** (latest gamebuilds), many server owners noticed that `bob74_ipl` is no longer fully compatible, causing issues like missing floors, flickering textures, or blue occlusion walls at the **Premium Deluxe Motorsport (PDM)** dealership.
